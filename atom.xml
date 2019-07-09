@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Eric的博客</title>
+  <title>Eric&#39;s Blog</title>
   
-  <subtitle>Eric Blog</subtitle>
+  <subtitle>得不到，是因为不够想要</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://wanyixia.online/"/>
