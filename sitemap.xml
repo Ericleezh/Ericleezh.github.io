@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://wanyixia.online/about/index.html</loc>
+    
+    <lastmod>2019-08-11T07:30:49.215Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://wanyixia.online/2019/08/08/Test20190808/</loc>
     
     <lastmod>2019-08-11T06:51:29.178Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>http://wanyixia.online/2019/07/06/hello-world/</loc>
     
     <lastmod>2019-08-11T06:51:21.718Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://wanyixia.online/about/index.html</loc>
-    
-    <lastmod>2019-08-11T06:48:50.907Z</lastmod>
     
   </url>
   
